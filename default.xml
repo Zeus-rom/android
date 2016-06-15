@@ -37,7 +37,7 @@
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="temasek/android_art" remote="github" revision="cm-13.0" />
   <project path="bionic" name="temasek/android_bionic" remote="github" revision="cm-13.0" />
-  <project path="bootable/recovery" name="TeamWin/Team-Win-Recovery-Project" revision="android-6.0" />
+  <project path="bootable/recovery" name="omnirom/android_bootable_recovery" revision="android-6.0" />
   <project path="dalvik" name="temasek/android_dalvik" remote="github" revision="cm-13.0" />
   <project path="cts" name="CyanogenMod/android_cts" groups="cts,pdk-cw-fs,pdk-fs" />
   <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs,pdk-fs" />
